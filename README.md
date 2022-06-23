@@ -1,6 +1,6 @@
 # Context Lab
 
-## Learning Goals
+## Learning Goals 
 
 * Update our time-card and payroll application to use the employee record as
   context rather than passing it as an argument.
